@@ -44,8 +44,8 @@ p {
   font-size: 24px;
   font-weight: normal;
 }
-.btn-btn-branding {
-  background: var(--branding-color);
+.btn-branding {
+  background: #6c63ff;
   border-radius: 4px;
   color: var(--branding-color);
   font-size: 18px;
